@@ -1,0 +1,5 @@
+{
+  "name": "DevHire - Premium Developer Job Board",
+  "description": "A revenue-ready SaaS job board for web developers. Features validated pricing models, SEO-optimized job listings, Stripe-like payment flows, and an employer dashboard.",
+  "requestFramePermissions": []
+}
